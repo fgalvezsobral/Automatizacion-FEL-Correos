@@ -1,0 +1,181 @@
+{
+  "numero_autorizacion": "3B8D2B3D-D389-4E1E-8710-82BE008D7765",
+  "serie": "3B8D2B3D",
+  "numero": "3548991006",
+  "fecha_emision": "2024-10-27 15:19:43-06:00",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "32375913",
+    "nombre": "Nuevos Almacenes, S.A.",
+    "nombre_comercial": "CEMACO CAYALA",
+    "codigo_establecimiento": "24",
+    "direccion": "CALZADA CAYALA, DIAGONAL 35, BOULEVARD AUSTRIACO 16-25, ZONA 16 LOCAL ANCLA 1 GUATEMALA, GUATEMALA, Guatemala, Guatemala, GT"
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "FERNANDO GALVEZ",
+    "direccion": "Ciudad, Guatemala, Guatemala, GT"
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000001043277|TIERRA NEGRA 25 LB",
+      "precio_unitario": "32.990000",
+      "precio": "32.990000",
+      "descuento": "0.000000",
+      "total": "32.990000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "29.460000",
+        "monto_impuesto": "3.530000"
+      }
+    },
+    {
+      "numero_linea": 2,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000000922844|MANGUERA EXPANDIBLE ROTTER 22.5 M.",
+      "precio_unitario": "184.990000",
+      "precio": "184.990000",
+      "descuento": "0.000000",
+      "total": "184.990000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "165.170000",
+        "monto_impuesto": "19.820000"
+      }
+    },
+    {
+      "numero_linea": 3,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000000654306|CUCHARA JADINERA 6\" MANGO MADERA TRUPER",
+      "precio_unitario": "41.990000",
+      "precio": "41.990000",
+      "descuento": "0.000000",
+      "total": "41.990000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "37.490000",
+        "monto_impuesto": "4.500000"
+      }
+    },
+    {
+      "numero_linea": 4,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000001080093|GANCHO PLASTICO PARA MANGUERA NARANJA",
+      "precio_unitario": "34.990000",
+      "precio": "34.990000",
+      "descuento": "0.000000",
+      "total": "34.990000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "31.240000",
+        "monto_impuesto": "3.750000"
+      }
+    },
+    {
+      "numero_linea": 5,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000000989979|TUBO EXTENSIBLE 86' ALUMINIO",
+      "precio_unitario": "264.990000",
+      "precio": "264.990000",
+      "descuento": "0.000000",
+      "total": "264.990000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "236.600000",
+        "monto_impuesto": "28.390000"
+      }
+    },
+    {
+      "numero_linea": 6,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000000998183|AGUA MISCELAR PIEL SENSIBLE AGRADO",
+      "precio_unitario": "19.990000",
+      "precio": "19.990000",
+      "descuento": "0.000000",
+      "total": "19.990000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "17.850000",
+        "monto_impuesto": "2.140000"
+      }
+    },
+    {
+      "numero_linea": 7,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000001005080|PEINE DE PUA NEGRO VIVA",
+      "precio_unitario": "11.990000",
+      "precio": "11.990000",
+      "descuento": "0.000000",
+      "total": "11.990000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "10.710000",
+        "monto_impuesto": "1.280000"
+      }
+    },
+    {
+      "numero_linea": 8,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000000708907|RITTER CHOCOLATE CON MAZAPAN",
+      "precio_unitario": "25.490000",
+      "precio": "25.490000",
+      "descuento": "9.000000",
+      "total": "16.490000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "14.720000",
+        "monto_impuesto": "1.770000"
+      }
+    },
+    {
+      "numero_linea": 9,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "U",
+      "descripcion": "000000000000708907|RITTER CHOCOLATE CON MAZAPAN",
+      "precio_unitario": "25.490000",
+      "precio": "25.490000",
+      "descuento": "8.990000",
+      "total": "16.500000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "14.730000",
+        "monto_impuesto": "1.770000"
+      }
+    }
+  ],
+  "total": "624.92",
+  "iva": "66.95",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/1720495K/factura_20241027_160553.xml",
+  "certificador_nombre": "INFILE, S.A.",
+  "certificador_nit": "12521337",
+  "fecha_procesamiento": "2024-10-27 16:05:53.123319"
+}

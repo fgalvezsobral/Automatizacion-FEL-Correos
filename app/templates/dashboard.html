@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row">
+    <!-- Resumen -->
+    <div class="col-md-12 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Resumen General</h5>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card bg-primary text-white mb-3">
+                            <div class="card-body">
+                                <h6 class="card-title">Total Facturas</h6>
+                                <h2 class="card-text">{{ total_facturas }}</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card bg-success text-white mb-3">
+                            <div class="card-body">
+                                <h6 class="card-title">Total Facturado</h6>
+                                <h2 class="card-text">GTQ {{ total_monto|format_number }}</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card bg-info text-white mb-3">
+                            <div class="card-body">
+                                <h6 class="card-title">Clientes</h6>
+                                <h2 class="card-text">{{ total_clientes }}</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Filtros -->
+    <div class="col-md-12 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <form method="GET" class="row g-3">
+                    <div class="col-md-3">
+                        <label class="form-label">Fecha Inicio</label>
+                        <input type="date" class="form-control" name="fecha_inicio" value="{{ fecha_inicio }}">
+                    </div>
+                    <div class="col-md-3">
+                        <label class="form-label">Fecha Fin</label>
+                        <input type="date" class="form-control" name="fecha_fin" value="{{ fecha_fin }}">
+                    </div>
+                    <div class="col-md-3">
+                        <label class="form-label">Cliente</label>
+                        <select class="form-select" name="cliente">
+                            <option value="">Todos</option>
+                            {% for cliente in clientes %}
+                            <option value="{{ cliente.nit }}" {% if cliente.nit == cliente_seleccionado %}selected{% endif %}>
+                                {{ cliente.nombre }}
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label class="form-label">&nbsp;</label>
+                        <button type="submit" class="btn btn-primary d-block">Filtrar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Lista de Facturas -->
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Facturas Recientes</h5>
+                <div class="table-responsive">
+                    <!-- En la sección de la tabla, actualiza el encabezado y las columnas -->
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Fecha</th>
+                                <th>Serie</th>
+                                <th>Número</th>
+                                <th>NIT Emisor</th>
+                                <th>Emisor</th>
+                                <th>NIT Cliente</th>
+                                <th>Cliente</th>
+                                <th class="text-end">Monto</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for factura in facturas %}
+                            <tr>
+                                <td>{{ factura.fecha_emision|format_date }}</td>
+                                <td>{{ factura.serie }}</td>
+                                <td>{{ factura.numero }}</td>
+                                <td>{{ factura.emisor.nit }}</td>
+                                <td>{{ factura.emisor.nombre }}</td>
+                                <td>{{ factura.receptor.nit }}</td>
+                                <td>{{ factura.receptor.nombre }}</td>
+                                <td class="text-end">{{ factura.total|format_number }}</td>
+                                <td>
+                                    <a href="/factura/{{ factura.serie }}/{{ factura.numero }}" class="btn btn-sm btn-info">Ver</a>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

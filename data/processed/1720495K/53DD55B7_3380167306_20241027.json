@@ -1,0 +1,45 @@
+{
+  "numero_autorizacion": "53DD55B7-C979-428A-860F-F4B826FEADA2",
+  "serie": "53DD55B7",
+  "numero": "3380167306",
+  "fecha_emision": "2024-10-27 14:59:37-06:00",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "97376256",
+    "nombre": "LOS EQUIDOS, SOCIEDAD ANONIMA",
+    "nombre_comercial": "LOS EQUIDOS",
+    "codigo_establecimiento": "1",
+    "direccion": "BOULEVARD AUSTRIACO 37-01 ZONA 16, GUATEMALA,GUATEMALA, GUATEMALA, GUATEMALA, GT"
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "GALVEZ SOBRAL,LIZARRALDE,,FERNANDO,",
+    "direccion": "Ciudad, Guatemala, Guatemala, GT"
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "S",
+      "cantidad": "1.00",
+      "unidad_medida": "UND",
+      "descripcion": "Uso de Parqueo",
+      "precio_unitario": "25.00",
+      "precio": "25.00",
+      "descuento": "0.00",
+      "total": "25.00",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "22.3214",
+        "monto_impuesto": "2.6786"
+      }
+    }
+  ],
+  "total": "25.00",
+  "iva": "2.6786",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/1720495K/factura_20241027_160552.xml",
+  "certificador_nombre": "INFILE, S.A.",
+  "certificador_nit": "12521337",
+  "fecha_procesamiento": "2024-10-27 16:05:52.422476"
+}

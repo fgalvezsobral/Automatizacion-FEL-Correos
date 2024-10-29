@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><dte:GTDocumento xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" Version="0.1">
+  <dte:SAT ClaseDocumento="dte">
+    <dte:DTE ID="DatosCertificados">
+      <dte:DatosEmision ID="DatosEmision">
+        <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2024-10-27T19:08:05.301-06:00" Tipo="FACT" />
+        <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="7" CorreoEmisor="novex@novex.com.gt" NITEmisor="25917579" NombreComercial="NOVEX SANTA AMELIA" NombreEmisor="NOVEX. SOCIEDAD ANONIMA.">
+          <dte:DireccionEmisor>
+            <dte:Direccion>24 CALLE BOULEVARD CENTRO MEDICO MILITAR, 13-80 ZONA 16</dte:Direccion>
+            <dte:CodigoPostal>01016</dte:CodigoPostal>
+            <dte:Municipio>GUATEMALA</dte:Municipio>
+            <dte:Departamento>GUATEMALA</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionEmisor>
+        </dte:Emisor>
+        <dte:Receptor CorreoReceptor="" IDReceptor="1720495K" NombreReceptor="FERNANDO GALVEZ" />
+        <dte:Frases>
+          <dte:Frase CodigoEscenario="1" TipoFrase="1" />
+          <dte:Frase CodigoEscenario="1" TipoFrase="2" />
+        </dte:Frases>
+        <dte:Items>
+          <dte:Item BienOServicio="B" NumeroLinea="1">
+            <dte:Cantidad>1.00</dte:Cantidad>
+            <dte:UnidadMedida>PIE</dte:UnidadMedida>
+            <dte:Descripcion>ORGANIZADOR PARA DUCHA CADDY NEGRO UMBRA 023460-040</dte:Descripcion>
+            <dte:PrecioUnitario>120.0000</dte:PrecioUnitario>
+            <dte:Precio>120.0000</dte:Precio>
+            <dte:Descuento>0.0000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>107.1429</dte:MontoGravable>
+                <dte:MontoImpuesto>12.8600</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>120</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="2">
+            <dte:Cantidad>1.00</dte:Cantidad>
+            <dte:UnidadMedida>PIE</dte:UnidadMedida>
+            <dte:Descripcion>GANCHO ADHESIVO PARA RASURADORA WATERPROOF METAL</dte:Descripcion>
+            <dte:PrecioUnitario>65.0000</dte:PrecioUnitario>
+            <dte:Precio>65.0000</dte:Precio>
+            <dte:Descuento>0.0000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>58.0357</dte:MontoGravable>
+                <dte:MontoImpuesto>6.9600</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>65</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="3">
+            <dte:Cantidad>1.00</dte:Cantidad>
+            <dte:UnidadMedida>JUE</dte:UnidadMedida>
+            <dte:Descripcion>GANCHO PLASTICO PARA CORTINA 12PZAS TRANSPARENTE 4229134</dte:Descripcion>
+            <dte:PrecioUnitario>25.0000</dte:PrecioUnitario>
+            <dte:Precio>25.0000</dte:Precio>
+            <dte:Descuento>0.0000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>22.3214</dte:MontoGravable>
+                <dte:MontoImpuesto>2.6800</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>25</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="4">
+            <dte:Cantidad>1.00</dte:Cantidad>
+            <dte:UnidadMedida>PIE</dte:UnidadMedida>
+            <dte:Descripcion>SERIE DE 100 LUCES INCANDESCENTES CABLE VERDE LUZ CLARA L008</dte:Descripcion>
+            <dte:PrecioUnitario>60.0000</dte:PrecioUnitario>
+            <dte:Precio>60.0000</dte:Precio>
+            <dte:Descuento>0.0000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>53.5714</dte:MontoGravable>
+                <dte:MontoImpuesto>6.4300</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>60</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="5">
+            <dte:Cantidad>1.00</dte:Cantidad>
+            <dte:UnidadMedida>PIE</dte:UnidadMedida>
+            <dte:Descripcion>SERIE DE 100 LUCES INCANDESCENTES CABLE VERDE LUZ CLARA L008</dte:Descripcion>
+            <dte:PrecioUnitario>60.0000</dte:PrecioUnitario>
+            <dte:Precio>60.0000</dte:Precio>
+            <dte:Descuento>0.0000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>53.5714</dte:MontoGravable>
+                <dte:MontoImpuesto>6.4300</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>60</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="6">
+            <dte:Cantidad>1.00</dte:Cantidad>
+            <dte:UnidadMedida>PIE</dte:UnidadMedida>
+            <dte:Descripcion>SERIE DE 100 LUCES INCANDESCENTES CABLE VERDE LUZ CLARA L008</dte:Descripcion>
+            <dte:PrecioUnitario>60.0000</dte:PrecioUnitario>
+            <dte:Precio>60.0000</dte:Precio>
+            <dte:Descuento>0.0000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>53.5714</dte:MontoGravable>
+                <dte:MontoImpuesto>6.4300</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>60</dte:Total>
+          </dte:Item>
+        </dte:Items>
+        <dte:Totales>
+          <dte:TotalImpuestos>
+            <dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="41.7900" />
+          </dte:TotalImpuestos>
+          <dte:GranTotal>390</dte:GranTotal>
+        </dte:Totales>
+      </dte:DatosEmision>
+    <dte:Certificacion><dte:NITCertificador>50510231</dte:NITCertificador><dte:NombreCertificador>Megaprint, S.A.</dte:NombreCertificador><dte:NumeroAutorizacion Numero="30166992" Serie="0DB98FE4">0DB98FE4-01CC-4FD0-9849-79452A659C61</dte:NumeroAutorizacion><dte:FechaHoraCertificacion>2024-10-27T19:08:05.685-06:00</dte:FechaHoraCertificacion></dte:Certificacion></dte:DTE>
+  </dte:SAT>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-d5daa2d7-0b6c-4b8b-b98c-d078ebc14f9d"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-c78c3fc4-0f10-4f98-8ece-513f50dfb80e" URI="#DatosEmision"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>whCS/MIvWAOubWr+vdAmMahUeQ+P1OVF6WbchOQebbk=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-d5daa2d7-0b6c-4b8b-b98c-d078ebc14f9d"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>BUjT7C8l+FEqcK2rsq8AKWAOcncJ8E9x1W4i8PMIdYI=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-d5daa2d7-0b6c-4b8b-b98c-d078ebc14f9d"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>YZulFs35yq3qREM89Wc1PP78nKPIsHJK06s6ilDyc3Q=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-d5daa2d7-0b6c-4b8b-b98c-d078ebc14f9d">Ioeq9z1HmjaJLJ2tPVRJbUe5vwY2BcljrE+lMYEJOror5B7ATRSegkPKVoO7QYOIIbgY7xhUYaQ7ZSMFXqd7YHcEm/tCOl80OS7zNk7xvNirVRV5CGfiac86TOvvgGvjDpmdCdZlr73AM43tvYnAQJKfhZkHWCKrgvozRM8R++qmC16jVEwV1sb2d0izKebfOoFBhTp8eA9yFYfahU9SyVfdVB8ZYURI8QjjYX1MpVyBkzO67TluUWRgIaBt5iQu1QPFbZyDy1S+2u/sjCXnCZw3h1LnPSK66X1JpQFTDATG6VCFe1zFZqTySCe5iq2wqaY0hBhIjFxsMZ3udrsx6g==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-d5daa2d7-0b6c-4b8b-b98c-d078ebc14f9d"><ds:X509Data><ds:X509Certificate>MIIDYTCCAkmgAwIBAgIIdSaREfEwhiEwDQYJKoZIhvcNAQELBQAwODE2MDQGA1UEAwwtU3VwZXJpbnRlbmRlbmNpYSBkZSBBZG1pbmlzdHJhY2lvbiBUcmlidXRhcmlhMB4XDTIzMDMwMjE1MDIyMFoXDTI1MDMwMTE1MDIyMFowKDERMA8GA1UEAwwIMjU5MTc1NzkxEzARBgNVBAoMCnNhdC5nb2IuZ3QwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCSPM18jOfZ9oNWA1d5XmWAGJpjOnb/VvvMmbx3L5CPfdXSX3FozrGacyWoJToGEwolSukCi/qnjjK75NIwlK3iGe/h9JucXlY/c/olBmEjA9Qqb5pv9Qy3BjFQcOuBgFsSeLQyFHjZGEbXQJLfH2wHN0l8K0Q1fwKlUIbDpT1q07CV1BeWnJRj5pRrIRk1yBlKsWQSdDcszjzdvyqUwBweL3jEkZLAjq34ug9onjM7NuVdqeDnv4pq92XwXtqcGRraHqC/pv8/gRd6FWC12OyUBzG8YhI114hyuI+DQhzZgzYKd3Gd6qKK4WaLft4Kwl3Dpznrz25hNzfKsO2hWetpAgMBAAGjfzB9MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUWIJ2jVgosclDBAK01cheai//+EowHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMB0GA1UdDgQWBBR1RHI6a5nSvJw24jc7UNe6jlG/eTAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcNAQELBQADggEBAEwkt8Q5F/P3YwQPn04bcoE7y86ZCjSeLrXLa41p2ZGTQYL7SGxDMJZCj1p3qxS1QztTeZgBnTCplqOSjT4DnxVqoa7AUrNvjWP3ZSfxgjGZlsm5tHr2Ak2bErb51MF7eZ1Mrf7Y/tL254467NAbS1hCTBuYGD3zTSHaBpE0tOthyD9US9Is9nJQkMhAk+eGT8zAGdxdWj+IYCIff57wo5RFP5vhC62D3/AksA7aLtYUoVPtxn8hpXLmsjzZ3WRIm6uRidn2RQ8iQCN/fAlkxA7WxTe+cAFQHD51l5f7s5y42+ljssWzYkXKj0SzuvZ3TUozisP1rJgaGDw3WE0+yqk=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>kjzNfIzn2faDVgNXeV5lgBiaYzp2/1b7zJm8dy+Qj33V0l9xaM6xmnMlqCU6BhMKJUrpAov6p44yu+TSMJSt4hnv4fSbnF5WP3P6JQZhIwPUKm+ab/UMtwYxUHDrgYBbEni0MhR42RhG10CS3x9sBzdJfCtENX8CpVCGw6U9atOwldQXlpyUY+aUayEZNcgZSrFkEnQ3LM483b8qlMAcHi94xJGSwI6t+LoPaJ4zOzblXang57+Kavdl8F7anBka2h6gv6b/P4EXehVgtdjslAcxvGISNdeIcriPg0Ic2YM2CndxneqiiuFmi37eCsJdw6c5689uYTc3yrDtoVnraQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-e9a6c3c2-8b4e-4518-8015-46bd2fd86fb2"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-9be08f67-3847-410f-a7e5-2da0ab0de538" Target="#Signature-d5daa2d7-0b6c-4b8b-b98c-d078ebc14f9d"><xades:SignedProperties Id="SignedProperties-Signature-d5daa2d7-0b6c-4b8b-b98c-d078ebc14f9d"><xades:SignedSignatureProperties><xades:SigningTime>2024-10-27T19:05:05-06:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>l+28i+zo9Y9f/oFy6gYY3+N9p8IS4LYPTqwiSOrhT6w=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Superintendencia de Administracion Tributaria</ds:X509IssuerName><ds:X509SerialNumber>8441594057799534113</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-c78c3fc4-0f10-4f98-8ece-513f50dfb80e"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-b28e7be9-8673-4a51-9f27-b8e80b30284c">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+<ds:Reference Id="xmldsig-b28e7be9-8673-4a51-9f27-b8e80b30284c-ref0" URI="#DatosCertificados">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>6BgM3Yr96UDXf/hSCQ9/UfmUS3hSXb/QQwhodH4FHdM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-b28e7be9-8673-4a51-9f27-b8e80b30284c-signedprops">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>QdYXWJfTakGDG1uKjxu9/O04moi5/d3uH7a2ADomOcw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-b28e7be9-8673-4a51-9f27-b8e80b30284c-sigvalue">
+rQT6U0ruBjYXIsB+QUtzLlY5l5p8A9Vj5H9lwJp/DmuYBJSb8zTl5xTRakc9B74seoQWHP/KLBfB
+o6gmQ89/KK5ScOe2xldf9jDr4gWrZ7jpWhSw3uOANGW1wJR32WpuuJBBkSls4Nzzf3JpFY+nocco
+kJh+002AoNCVp3lMatsHyWHRa1sFVyRnssgDw4ipj2l9Hqx8ZF4AjlCSWctmpvz0YFRiD35bkFi6
+r1khrLJVuhzFg2gDM5pdBn7SvyK/Hx8BOJX7VH3D2V3wgwDD9ZKHR0/adqzuO+LIbLM9iuEK0+s1
+wiEeeMRyBcUVmMeXGcIZ+IdqTqQPSjK2pUHFpg==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKTTCCCDWgAwIBAgIMQUNHVEkyAAAAAAtAMA0GCSqGSIb3DQEBCwUAMIIBLzEmMCQGA1UEAxYd
+UmVnaXN0cm8gRGlnaXRhbCBQcmlzbWEsIFMuQS4xKjAoBgkqhkiG9w0BCQEWG3NlcnZpY2lvYWxj
+bGllbnRlQHByaXNtYS5ndDEmMCQGA1UEChYdUmVnaXN0cm8gRGlnaXRhbCBQcmlzbWEsIFMuQS4x
+EjAQBgNVBAsTCUd1YXRlbWFsYTERMA8GA1UELRMINTkzOTg0ODUxRTBDBgNVBAkWPEF2ZW5pZGEg
+UmVmb3JtYSAzLTQ4IFpvbmEgOSBFZGlmLiBBbmVsIDV0byBuaXZlbCBPZmljaW5hIDUwMzEOMAwG
+A1UEERMFMDEwMDkxEjAQBgNVBAcTCUd1YXRlbWFsYTESMBAGA1UECBMJR3VhdGVtYWxhMQswCQYD
+VQQGEwJHVDAeFw0yMzA2MTIxNzQwMjVaFw0yNTA0MjgxNzQwMjVaMIIB4DElMCMGA1UEAwwcTWVn
+YXByaW50LCBTb2NpZWRhZCBBbsOzbmltYTEpMCcGCSqGSIb3DQEJARYad2lsbHlwYWl6QGdydXBv
+b255eC5jb20uZ3QxETAPBgNVBC0MCDUwNTEwMjMxMRgwFgYDVQQFDA8xODIzIDEzNDE3IDAxMDEx
+NTAzBgNVBAwMLEdlcmVudGUgQWRtaW5pc3RyYXRpdm8geSBSZXByZXNlbnRhbnRlIExlZ2FsMRMw
+EQYDVQQKDApNZWdhcHJpbnQgMREwDwYDVQQLDAhHZXJlbmNpYTEeMBwGA1UEBwwVU2FudGEgQ2F0
+YXJpbmEgUGludWxhMREwDwYDVQQUDAgyMzI5NDgwMDFZMFcGA1UECQxQS2lsb21ldHJvIDkuNSBD
+YXJyZXRlcmEgYSBFbCBTYWx2YWRvciBDQS0wMSBUb3JyZSBUaWdvIFNlZ3VuZG8gTml2ZWwgb2Zp
+Y2luYSAyIEExEjAQBgNVBAYMCUd1YXRlbWFsYTEzMDEGA1UEDQwqQ2VydGlmaWNhZG8gRGlnaXRh
+bCBwYXJhIHBlcnNvbmEganVyw61kaWNhMSkwJwYDVQQqDCBHdWlsbGVybW8gRXJuZXN0byAgUGFp
+eiBHaWxsaW9saTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALGFnJBsSxBDj/oVdQDc
+wOkMok2K47Xl1cuQChODp05v1xA9F+SWLKgQtnh0qMypsM9VQf0SiKrhKzNUnWJUoDFt6NLdd3Xu
+tZ9lQ8KcE6ifGGBbNhWaBgX8vFcWz0rnFd2qtRI6TrKh0t/JybzBKS3mf9KqhYTXxPcpfx5bhUWi
+L9ekXWI5ylD2bphMbzu8C+4tXkbfUjuSLcES+xTsWwvjGjiU6aS1ewwiFQRPUBKvWnlnAMCmryZd
+Z0QBf6w8gfoqwY183+LPk2cW8myvb2Q0JK/8UXSlNMGWBJhERuq5MspbHtlYHWPAsbdCGlg1ux+T
+/HgwmSnnLqmSnE5t5DkCAwEAAaOCA7IwggOuMEAGCCsGAQUFBwEBBDQwMjAwBggrBgEFBQcwAYYk
+aHR0cDovL29jc3AucmVhY2hjb3JlLmNvbS9PQ1NQUFJJU01BMIIBWAYDVR0RBIIBTzCCAUuBJ1By
+ZXN0YWRvciBkZSBTZXJ2aWNpb3MgZGUgQ2VydGlmaWNhY2k/boFbIGF1dG9yaXphZG8gc2VnP24g
+cmVzb2x1Y2k/biBOby4gUFNDLTAxLTIwMTQgZW1pdGlkYSBwb3IgZWwgUlBTQyBkZWwgTWluaXN0
+ZXJpbyBkZSBFY29ub20/YYFXIGRlIGFjdWVyZG8gYSBsYSBMZXkgcGFyYSBlbCByZWNvbm9jaW1p
+ZW50byBkZSBsYXMgY29tdW5pY2FjaW9uZXMgeSBmaXJtYXMgZWxlY3RyP25pY2FzgU4gRGVjcmV0
+byA0Ny0yMDA4IGRlbCBDb25ncmVzbyBkZSBsYSBSZXA/YmxpY2EgZGUgR3VhdGVtYWxhIHkgc3Ug
+cmVnbGFtZW50by4JCQmBGndpbGx5cGFpekBncnVwb29ueXguY29tLmd0MFAGA1UdHwRJMEcwRaBD
+oEGGP2h0dHBzOi8vY2EuYWR2YW50YWdlLXNlY3VyaXR5LmNvbS9hY3ByaXNtYTAxL2NybC9wcmlz
+bWEyX2d0LmNybDCCAWcGA1UdIwSCAV4wggFagBQWdf6ZNR0f1d2vT+ArnRvwu4xKGqGCATekggEz
+MIIBLzEmMCQGA1UEAxYdUmVnaXN0cm8gRGlnaXRhbCBQcmlzbWEsIFMuQS4xKjAoBgkqhkiG9w0B
+CQEWG3NlcnZpY2lvYWxjbGllbnRlQHByaXNtYS5ndDEmMCQGA1UEChYdUmVnaXN0cm8gRGlnaXRh
+bCBQcmlzbWEsIFMuQS4xEjAQBgNVBAsTCUd1YXRlbWFsYTERMA8GA1UELRMINTkzOTg0ODUxRTBD
+BgNVBAkWPEF2ZW5pZGEgUmVmb3JtYSAzLTQ4IFpvbmEgOSBFZGlmLiBBbmVsIDV0byBuaXZlbCBP
+ZmljaW5hIDUwMzEOMAwGA1UEERMFMDEwMDkxEjAQBgNVBAcTCUd1YXRlbWFsYTESMBAGA1UECBMJ
+R3VhdGVtYWxhMQswCQYDVQQGEwJHVIIHQUNHVDJJMTARBglghkgBhvhCAQEEBAMCAIAwCwYDVR0P
+BAQDAgGgMBIGA1UdEwEB/wQIMAYBAQACAQAwHQYDVR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMC
+MA0GCSqGSIb3DQEBCwUAA4ICAQAiKsFMoRHkfsFPRQKO5zlvaory5E6khC8qMcl+9NXrHcIam2N3
+pWt2DvRSYfFmt/YUoQN9AdTEjY6mWFqHjmX6lDWMjfsWNcoJcwhmTWVieGNoVM8acf/YGbCSQ+55
+q7xzyqdcK/Xxmod93N+LSwCiQ1Q/KfvrTRxR3yqqk/Y2MsRtXPSHP9bvIVbYTtfEIv9YQgBnVec2
+zXDllX2EFE+1Ww5ou0PNVR4aNZsslAPjf9Z2SzbVqO/jmz8m/LoJD8XAbBZgbrA2aI3iFGkySsEM
+H61UEB+63qwb1qO35ojqscswBqewF3CfjVtdOCY6YsXNLNFjcH1FNeStUnZnK2osYkZ/u/SyTyKv
+8vA73bQ6Im8b7FaBWe/miRPC8z8Hiz3o2VC3a0R/LivUhlfheo2/tKpY2NftHfz+Mkpedj1xVYpr
+ZJ7U+RKfmJ/RTrhlqw/Svqt0SdthUcLY7NtUyhmO185yj2HbNIl+phG/DhCPy33bv1Ki1t4Z4DA+
+hArJ158oK8iwDFm7JgKgOhLi2WWWtbG5PPnvwLe4nSUrH6OmGI/3ypBmvdqv+vcDe9R5lPlNgY/8
+etF7FZ77aixVh+IUW0PkKwBzdyuAgTuBdatDHsUHVKZ7aV1EuN7+g6dGZzqk7eoT74uu1pytzbD4
+Lg5+MGH8OABslvHD667KkahS3g==
+</ds:X509Certificate>
+<ds:X509SubjectName>givenName=Guillermo Ernesto  Paiz Gillioli,description=Certificado Digital para persona jurídica,c=Guatemala,street=Kilometro 9.5 Carretera a El Salvador CA-01 Torre Tigo Segundo Nivel oficina 2 A,telephoneNumber=23294800,l=Santa Catarina Pinula,ou=Gerencia,o=Megaprint\ ,title=Gerente Administrativo y Representante Legal,serialNumber=1823 13417 0101,x500UniqueIdentifier=50510231,1.2.840.113549.1.9.1=willypaiz@grupoonyx.com.gt,cn=Megaprint\, Sociedad Anónima</ds:X509SubjectName>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>c=GT,st=Guatemala,l=Guatemala,postalCode=01009,street=Avenida Reforma 3-48 Zona 9 Edif. Anel 5to nivel Oficina 503,x500UniqueIdentifier=59398485,ou=Guatemala,o=Registro Digital Prisma\, S.A.,1.2.840.113549.1.9.1=servicioalcliente@prisma.gt,cn=Registro Digital Prisma\, S.A.</ds:X509IssuerName>
+<ds:X509SerialNumber>20197860511122673671832865600</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-b28e7be9-8673-4a51-9f27-b8e80b30284c"><xades:SignedProperties Id="xmldsig-b28e7be9-8673-4a51-9f27-b8e80b30284c-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2024-10-27T19:08:05.707-06:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>amdE9GUdpsR7EGCWJJcI9536r0tvlwOeR4svuUfa/ag=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>c=GT,st=Guatemala,l=Guatemala,postalCode=01009,street=Avenida Reforma 3-48 Zona 9 Edif. Anel 5to nivel Oficina 503,x500UniqueIdentifier=59398485,ou=Guatemala,o=Registro Digital Prisma\, S.A.,1.2.840.113549.1.9.1=servicioalcliente@prisma.gt,cn=Registro Digital Prisma\, S.A.</ds:X509IssuerName><ds:X509SerialNumber>20197860511122673671832865600</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature></dte:GTDocumento>

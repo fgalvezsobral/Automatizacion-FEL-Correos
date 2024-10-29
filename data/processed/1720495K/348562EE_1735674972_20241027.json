@@ -1,0 +1,45 @@
+{
+  "numero_autorizacion": "348562EE-6774-4C5C-A941-B9E8C7558B3C",
+  "serie": "348562EE",
+  "numero": "1735674972",
+  "fecha_emision": "2024-10-25 20:44:37",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "75687208",
+    "nombre": "CITYSPORTS SOCIEDAD ANONIMA",
+    "nombre_comercial": "CITYSPORTS SOCIEDAD ANONIMA",
+    "codigo_establecimiento": "21",
+    "direccion": "OAKLAND PLACE, GUATEMALA, GUATEMALA, GT"
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "FERNANDO GALVEZ",
+    "direccion": "CIUDAD GUATEMALA, GUATEMALA, GUATEMALA, GT"
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "UND",
+      "descripcion": "DR2660101",
+      "precio_unitario": "1479.99",
+      "precio": "1479.99",
+      "descuento": "0.00",
+      "total": "1479.99",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "1321.4196",
+        "monto_impuesto": "158.5704"
+      }
+    }
+  ],
+  "total": "1479.99",
+  "iva": "158.57",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/1720495K/factura_20241027_202219.xml",
+  "certificador_nombre": "G4S DOCUMENTA, S. A.",
+  "certificador_nit": "60010207",
+  "fecha_procesamiento": "2024-10-27 20:22:19.861235"
+}

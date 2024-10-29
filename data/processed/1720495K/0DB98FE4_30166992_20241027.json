@@ -1,0 +1,130 @@
+{
+  "numero_autorizacion": "0DB98FE4-01CC-4FD0-9849-79452A659C61",
+  "serie": "0DB98FE4",
+  "numero": "30166992",
+  "fecha_emision": "2024-10-27 19:08:05",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "25917579",
+    "nombre": "NOVEX. SOCIEDAD ANONIMA.",
+    "nombre_comercial": "NOVEX SANTA AMELIA",
+    "codigo_establecimiento": "7",
+    "direccion": "24 CALLE BOULEVARD CENTRO MEDICO MILITAR, 13-80 ZONA 16, GUATEMALA, GUATEMALA, GT"
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "FERNANDO GALVEZ",
+    "direccion": ""
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "B",
+      "cantidad": "1.00",
+      "unidad_medida": "PIE",
+      "descripcion": "ORGANIZADOR PARA DUCHA CADDY NEGRO UMBRA 023460-040",
+      "precio_unitario": "120.0000",
+      "precio": "120.0000",
+      "descuento": "0.0000",
+      "total": "120",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "107.1429",
+        "monto_impuesto": "12.8600"
+      }
+    },
+    {
+      "numero_linea": 2,
+      "bien_servicio": "B",
+      "cantidad": "1.00",
+      "unidad_medida": "PIE",
+      "descripcion": "GANCHO ADHESIVO PARA RASURADORA WATERPROOF METAL",
+      "precio_unitario": "65.0000",
+      "precio": "65.0000",
+      "descuento": "0.0000",
+      "total": "65",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "58.0357",
+        "monto_impuesto": "6.9600"
+      }
+    },
+    {
+      "numero_linea": 3,
+      "bien_servicio": "B",
+      "cantidad": "1.00",
+      "unidad_medida": "JUE",
+      "descripcion": "GANCHO PLASTICO PARA CORTINA 12PZAS TRANSPARENTE 4229134",
+      "precio_unitario": "25.0000",
+      "precio": "25.0000",
+      "descuento": "0.0000",
+      "total": "25",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "22.3214",
+        "monto_impuesto": "2.6800"
+      }
+    },
+    {
+      "numero_linea": 4,
+      "bien_servicio": "B",
+      "cantidad": "1.00",
+      "unidad_medida": "PIE",
+      "descripcion": "SERIE DE 100 LUCES INCANDESCENTES CABLE VERDE LUZ CLARA L008",
+      "precio_unitario": "60.0000",
+      "precio": "60.0000",
+      "descuento": "0.0000",
+      "total": "60",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "53.5714",
+        "monto_impuesto": "6.4300"
+      }
+    },
+    {
+      "numero_linea": 5,
+      "bien_servicio": "B",
+      "cantidad": "1.00",
+      "unidad_medida": "PIE",
+      "descripcion": "SERIE DE 100 LUCES INCANDESCENTES CABLE VERDE LUZ CLARA L008",
+      "precio_unitario": "60.0000",
+      "precio": "60.0000",
+      "descuento": "0.0000",
+      "total": "60",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "53.5714",
+        "monto_impuesto": "6.4300"
+      }
+    },
+    {
+      "numero_linea": 6,
+      "bien_servicio": "B",
+      "cantidad": "1.00",
+      "unidad_medida": "PIE",
+      "descripcion": "SERIE DE 100 LUCES INCANDESCENTES CABLE VERDE LUZ CLARA L008",
+      "precio_unitario": "60.0000",
+      "precio": "60.0000",
+      "descuento": "0.0000",
+      "total": "60",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "53.5714",
+        "monto_impuesto": "6.4300"
+      }
+    }
+  ],
+  "total": "390",
+  "iva": "41.7900",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/1720495K/factura_20241027_202220.xml",
+  "certificador_nombre": "Megaprint, S.A.",
+  "certificador_nit": "50510231",
+  "fecha_procesamiento": "2024-10-27 20:22:20.584254"
+}

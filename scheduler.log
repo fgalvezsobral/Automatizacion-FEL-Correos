@@ -1,0 +1,28 @@
+2024-10-27 20:14:35,985 - INFO - Programador iniciado. Ejecutará el proceso cada 2 minutos...
+2024-10-27 20:16:36,252 - INFO - Iniciando proceso de facturación en 2024-10-27 20:16:36.251567
+2024-10-27 20:16:38,701 - ERROR - Error en el proceso: Traceback (most recent call last):
+  File "/Users/Fernando/sat_invoice_processor/app/main.py", line 6, in <module>
+    from .core.email_processor import EmailProcessor
+ImportError: attempted relative import with no known parent package
+
+2024-10-27 20:18:38,960 - INFO - Iniciando proceso de facturación en 2024-10-27 20:18:38.960476
+2024-10-27 20:18:41,215 - ERROR - Error en el proceso: Traceback (most recent call last):
+  File "/Users/Fernando/sat_invoice_processor/app/main.py", line 6, in <module>
+    from app.core.email_processor import EmailProcessor
+ModuleNotFoundError: No module named 'app'
+
+2024-10-27 20:19:21,863 - INFO - Programador detenido por el usuario
+2024-10-27 20:20:16,034 - INFO - Programador iniciado. Ejecutará el proceso cada 2 minutos...
+2024-10-27 20:22:16,293 - INFO - Iniciando proceso de facturación en 2024-10-27 20:22:16.293649
+2024-10-27 20:22:17,178 - INFO - Conectado al servidor de correo exitosamente
+2024-10-27 20:22:19,200 - INFO - Se encontraron 2 mensajes nuevos
+2024-10-27 20:22:19,200 - INFO - Procesando mensaje con URL XML: https://felav02.c.sat.gob.gt/NotificacionFEL-rest/rest/publico/descargaXml/YTFpT0dwbzA4NS9JRU01MXcwWHQ1U0Y4QjZmZ2dUYXlva0h6L2RuYkpOZFFlR3UzeWZxVXZzQllBQnhCNEI3MW54MVNzTm13MDhkd3VZbFBycDhnUlE9PQ==
+2024-10-27 20:22:20,001 - INFO - Factura procesada exitosamente: 348562EE-1735674972
+2024-10-27 20:22:20,001 - INFO - Procesando mensaje con URL XML: https://felav02.c.sat.gob.gt/NotificacionFEL-rest/rest/publico/descargaXml/ODZwYUNQUGw0aWhBWXNnTFhraUdMVTAyKzJoek9JZnB6TEpEaWJNbXhPZVZYTzlSZUQ0c0JlbjNnSDFaWEh4c3E4amZLcHliTnpWSkZVYUp0SDhXN3c9PQ==
+2024-10-27 20:22:20,722 - INFO - Factura procesada exitosamente: 0DB98FE4-30166992
+2024-10-27 20:22:20,862 - INFO - Proceso completado exitosamente: {'message': 'Proceso completado. 2 facturas procesadas'}
+2024-10-27 20:24:21,142 - INFO - Iniciando proceso de facturación en 2024-10-27 20:24:21.142008
+2024-10-27 20:24:21,973 - INFO - Conectado al servidor de correo exitosamente
+2024-10-27 20:24:23,573 - INFO - Se encontraron 0 mensajes nuevos
+2024-10-27 20:24:23,701 - INFO - Proceso completado exitosamente: {'message': 'Proceso completado. 0 facturas procesadas'}
+2024-10-27 20:24:32,943 - INFO - Programador detenido por el usuario

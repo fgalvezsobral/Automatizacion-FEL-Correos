@@ -1,0 +1,45 @@
+{
+  "numero_autorizacion": "A93933B0-F61E-4F4B-8776-125A4EB7C975",
+  "serie": "A93933B0",
+  "numero": "4129181515",
+  "fecha_emision": "2024-10-27 16:04:45",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "26532476",
+    "nombre": "UNISUPER, SOCIEDAD ANONIMA",
+    "nombre_comercial": "SUPERMERCADOS LA TORRE",
+    "codigo_establecimiento": "68",
+    "direccion": "24 CALLE BOULEVARD HOSPITAL MILITAR 14-00  ZONA 16 CENTRO COMERCIAL PLAZA SAN FERNANDO, GUATEMALA, GUATEMALA, GT"
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "GALVEZ SOBRAL,LIZARRALDE,,FERNANDO,",
+    "direccion": "CIUDAD, GT"
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "B",
+      "cantidad": "1",
+      "unidad_medida": "1",
+      "descripcion": "MISTER H. HUEVOS 45U",
+      "precio_unitario": "71.75",
+      "precio": "71.75",
+      "descuento": "5.85",
+      "total": "65.9",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "58.84",
+        "monto_impuesto": "7.06"
+      }
+    }
+  ],
+  "total": "65.9",
+  "iva": "7.06",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/1720495K/factura_20241027_194553.xml",
+  "certificador_nombre": "AINNOVA, SOCIEDAD ANONIMA",
+  "certificador_nit": "56407734",
+  "fecha_procesamiento": "2024-10-27 19:45:53.182476"
+}

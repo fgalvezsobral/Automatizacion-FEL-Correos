@@ -1,0 +1,130 @@
+{
+  "numero_autorizacion": "2B4BFE73-4872-431E-BB5D-102D47D91E00",
+  "serie": "2B4BFE73",
+  "numero": "1215447838",
+  "fecha_emision": "2024-10-27 14:48:30",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "26358980",
+    "nombre": "GRUPO BC, SOCIEDAD ANONIMA",
+    "nombre_comercial": "HACIENDA REAL",
+    "codigo_establecimiento": "4",
+    "direccion": "BOULEVARD AUSTRIACO 37-01 LOCAL 18 ZONA 16, Guatemala, GUATEMALA, GT"
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "GALVEZ SOBRAL,LIZARRALDE,,FERNANDO,",
+    "direccion": "CIUDAD, GUATEMALA, GUATEMALA, GT"
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "B",
+      "cantidad": "1.000",
+      "unidad_medida": "UNO",
+      "descripcion": "Cerveza Corona",
+      "precio_unitario": "32.950",
+      "precio": "32.950",
+      "descuento": "0",
+      "total": "32.950",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "29.420",
+        "monto_impuesto": "3.530"
+      }
+    },
+    {
+      "numero_linea": 2,
+      "bien_servicio": "B",
+      "cantidad": "1.000",
+      "unidad_medida": "UNO",
+      "descripcion": "Ojo Rojo|Refrescos/Jugos|Limonada",
+      "precio_unitario": "10.000",
+      "precio": "10.000",
+      "descuento": "0",
+      "total": "10.000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "8.929",
+        "monto_impuesto": "1.071"
+      }
+    },
+    {
+      "numero_linea": 3,
+      "bien_servicio": "B",
+      "cantidad": "3.000",
+      "unidad_medida": "UNO",
+      "descripcion": "Regular|Soda|Lomito Perez",
+      "precio_unitario": "32.950",
+      "precio": "98.850",
+      "descuento": "0",
+      "total": "98.850",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "88.259",
+        "monto_impuesto": "10.591"
+      }
+    },
+    {
+      "numero_linea": 4,
+      "bien_servicio": "B",
+      "cantidad": "1.000",
+      "unidad_medida": "UNO",
+      "descripcion": "Porcion|1/2|Guacamol|Frijol|Corte FM|Steak Pimienta",
+      "precio_unitario": "209.950",
+      "precio": "209.950",
+      "descuento": "0",
+      "total": "209.950",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "187.455",
+        "monto_impuesto": "22.495"
+      }
+    },
+    {
+      "numero_linea": 5,
+      "bien_servicio": "B",
+      "cantidad": "1.000",
+      "unidad_medida": "UNO",
+      "descripcion": "1/2 Porcion|1/2|Papas Camote|Queso Asado",
+      "precio_unitario": "154.950",
+      "precio": "154.950",
+      "descuento": "0",
+      "total": "154.950",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "138.348",
+        "monto_impuesto": "16.602"
+      }
+    },
+    {
+      "numero_linea": 6,
+      "bien_servicio": "B",
+      "cantidad": "2.000",
+      "unidad_medida": "UNO",
+      "descripcion": "Por. Tortillas|Tortilla Comal",
+      "precio_unitario": "15.950",
+      "precio": "31.900",
+      "descuento": "0",
+      "total": "31.900",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "28.482",
+        "monto_impuesto": "3.418"
+      }
+    }
+  ],
+  "total": "538.600",
+  "iva": "57.707",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/1720495K/factura_20241027_160551.xml",
+  "certificador_nombre": "DIGIFACT SERVICIOS, SOCIEDAD ANONIMA",
+  "certificador_nit": "77454820",
+  "fecha_procesamiento": "2024-10-27 16:05:51.780471"
+}

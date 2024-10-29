@@ -1,0 +1,21 @@
+{
+  "numero_autorizacion": "348562EE-6774-4C5C-A941-B9E8C7558B3C",
+  "serie": "348562EE",
+  "numero": "1735674972",
+  "fecha_emision": "2024-10-25T00:00:00",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "",
+    "nombre": "",
+    "direccion": ""
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "FERNANDO GALVEZ",
+    "direccion": ""
+  },
+  "items": [],
+  "total": "0",
+  "iva": "0",
+  "moneda": "GTQ"
+}

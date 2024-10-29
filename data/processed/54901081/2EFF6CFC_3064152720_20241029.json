@@ -1,0 +1,45 @@
+{
+  "numero_autorizacion": "2EFF6CFC-B6A3-4290-8B76-C1D059D351F1",
+  "serie": "2EFF6CFC",
+  "numero": "3064152720",
+  "fecha_emision": "2024-10-28T10:01:52",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "51657171",
+    "nombre": "OLMOTO, SOCIEDAD ANONIMA",
+    "nombre_comercial": "OPERADORA DE PARQUEOS CORPORATIVOS",
+    "codigo_establecimiento": "2",
+    "direccion": "6 AVENIDA Y 16 CALLE ESQUINA   ZONA 10, GUATEMALA, GUATEMALA, GT"
+  },
+  "receptor": {
+    "nit": "54901081",
+    "nombre": "CONTAC, SOCIEDAD ANÓNIMA",
+    "direccion": "., GT"
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "S",
+      "cantidad": "1",
+      "unidad_medida": "1",
+      "descripcion": "Normal",
+      "precio_unitario": "20",
+      "precio": "20",
+      "descuento": "0",
+      "total": "20",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "17.86",
+        "monto_impuesto": "2.14"
+      }
+    }
+  ],
+  "total": "20",
+  "iva": "2.14",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/54901081/factura_20241029_164141.xml",
+  "certificador_nombre": "AINNOVA, SOCIEDAD ANONIMA",
+  "certificador_nit": "56407734",
+  "fecha_procesamiento": "2024-10-29T16:41:41.242660"
+}

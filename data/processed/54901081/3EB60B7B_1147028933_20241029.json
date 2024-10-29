@@ -1,0 +1,45 @@
+{
+  "numero_autorizacion": "3EB60B7B-445E-45C5-B9B1-3DE477DB6C35",
+  "serie": "3EB60B7B",
+  "numero": "1147028933",
+  "fecha_emision": "2024-10-28T07:44:32",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "1720495K",
+    "nombre": "FERNANDO, GALVEZ SOBRAL LIZARRALDE",
+    "nombre_comercial": "FERNANDO GALVEZ SOBRAL LIZARRALDE",
+    "codigo_establecimiento": "1",
+    "direccion": "20 Calle 27-94 Residencial Varadero Casa 5, Zona 10,, Guatemala, Guatemala, GT"
+  },
+  "receptor": {
+    "nit": "54901081",
+    "nombre": "CONTAC SOCIEDAD ANÓNIMA",
+    "direccion": "Ciudad, Guatemala, GT"
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "S",
+      "cantidad": "1",
+      "unidad_medida": "",
+      "descripcion": "Honorarios por servicios de Dirección",
+      "precio_unitario": "29866.670000",
+      "precio": "29866.670000",
+      "descuento": "0.000000",
+      "total": "29866.670000",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "1",
+        "monto_gravable": "26666.669643",
+        "monto_impuesto": "3200.000357"
+      }
+    }
+  ],
+  "total": "29866.670000",
+  "iva": "3200.000357",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/54901081/factura_20241029_164140.xml",
+  "certificador_nombre": "CARI LATINOAMERICA, S.A.",
+  "certificador_nit": "96941243",
+  "fecha_procesamiento": "2024-10-29T16:41:40.617781"
+}

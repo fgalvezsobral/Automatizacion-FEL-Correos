@@ -1,0 +1,21 @@
+{
+  "numero_autorizacion": "7616032B-74C5-4A70-8780-4D4BE3E4AB23",
+  "serie": "7616032B",
+  "numero": "1959086704",
+  "fecha_emision": "2024-10-25T00:00:00",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "",
+    "nombre": "",
+    "direccion": ""
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "FERNANDO GALVEZ",
+    "direccion": ""
+  },
+  "items": [],
+  "total": "0",
+  "iva": "0",
+  "moneda": "GTQ"
+}

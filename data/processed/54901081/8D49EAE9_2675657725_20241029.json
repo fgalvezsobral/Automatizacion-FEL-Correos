@@ -1,0 +1,45 @@
+{
+  "numero_autorizacion": "8D49EAE9-9F7B-4BFD-B049-D7E9FC057D09",
+  "serie": "8D49EAE9",
+  "numero": "2675657725",
+  "fecha_emision": "2024-10-29T09:45:00-06:00",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "5934397",
+    "nombre": "Instituto Guatemalteco de Contadores Públicos y Auditores",
+    "nombre_comercial": "Instituto Guatemalteco de Contadores Publicos y Aud.",
+    "codigo_establecimiento": "1",
+    "direccion": "6ta. avenida 0-60, Gran Centro Comercial Zona 4, Torre I, Ni, Guatemala, Guatemala, GT"
+  },
+  "receptor": {
+    "nit": "54901081",
+    "nombre": "CONTAC S, A.",
+    "direccion": "Via 4 1-00 Zona 4 Ciudad de Guatemala Edificio Tec 2 Oficina 305, GT"
+  },
+  "items": [
+    {
+      "numero_linea": 1,
+      "bien_servicio": "S",
+      "cantidad": "1",
+      "unidad_medida": "1",
+      "descripcion": "|AF24023|JORNADA PLANIFICACIÓN DE CIERRE FISCAL(Luis Del Cid)",
+      "precio_unitario": "200",
+      "precio": "200",
+      "descuento": "0",
+      "total": "200",
+      "impuestos": {
+        "nombre": "IVA",
+        "codigo": "2",
+        "monto_gravable": "200",
+        "monto_impuesto": "0"
+      }
+    }
+  ],
+  "total": "200",
+  "iva": "0",
+  "moneda": "GTQ",
+  "xml_path": "data/xml_files/54901081/factura_20241029_164142.xml",
+  "certificador_nombre": "INFILE, S.A.",
+  "certificador_nit": "12521337",
+  "fecha_procesamiento": "2024-10-29T16:41:42.020006"
+}

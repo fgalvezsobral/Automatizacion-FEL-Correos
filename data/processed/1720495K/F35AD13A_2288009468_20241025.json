@@ -1,0 +1,21 @@
+{
+  "numero_autorizacion": "F35AD13A-8860-40FC-947C-12D04B428823",
+  "serie": "F35AD13A",
+  "numero": "2288009468",
+  "fecha_emision": "2024-10-25T00:00:00",
+  "tipo_documento": "FACT",
+  "emisor": {
+    "nit": "",
+    "nombre": "",
+    "direccion": ""
+  },
+  "receptor": {
+    "nit": "1720495K",
+    "nombre": "FERNANDO GALVEZ",
+    "direccion": ""
+  },
+  "items": [],
+  "total": "0",
+  "iva": "0",
+  "moneda": "GTQ"
+}
